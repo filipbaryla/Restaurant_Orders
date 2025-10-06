@@ -27,6 +27,12 @@ The dashboard provides insights through the following KPIs and visuals:
 
 ---
 
+## 📈 Data Analysis 
+
+In 8 months Restaurant earned 7000$.
+
+---
+
 ## 📸 Dashboard Preview
 
 ### 🔍 Overview Screenshots
