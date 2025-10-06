@@ -7,7 +7,7 @@ This Power BI project presents a **Restaurant Orders dashboard** that provides i
 ## 🔧 Key Features
 
 ### 🎯 Dynamic Filtering
-- Implemented **Order Method**, type of slicer.
+- Implemented **Order Method** type of slicer.
 - Added **Price**,**Customers** and **Quantity** types of slicers to compare them with **Date**.
 
 ### 🔍 Size of the Chart
